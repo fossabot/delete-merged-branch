@@ -1,5 +1,6 @@
 # Delete merged branch
 [![Build Status](https://travis-ci.com/SvanBoxel/delete-merged-branch.svg?token=BrByTtLgfVKqDJ6GzD2p&branch=master)](https://travis-ci.com/SvanBoxel/delete-merged-branch)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSvanBoxel%2Fdelete-merged-branch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSvanBoxel%2Fdelete-merged-branch?ref=badge_shield)
 _Want to see more badges? [Click here](#badges)!_
 
 A GitHub app built with [Probot](https://github.com/probot/probot) that automatically deletes a branch after it's merged. That's it, enjoy! 
@@ -42,6 +43,9 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 ## License
 
 [ISC](LICENSE) © 2018 Sebass van Boxel <hello@svboxel.com>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSvanBoxel%2Fdelete-merged-branch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSvanBoxel%2Fdelete-merged-branch?ref=badge_large)
 
 ## Badges
 [![Build Status](https://travis-ci.com/SvanBoxel/delete-merged-branch.svg?token=BrByTtLgfVKqDJ6GzD2p&branch=master)](https://travis-ci.com/SvanBoxel/delete-merged-branch)
